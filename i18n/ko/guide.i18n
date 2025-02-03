@@ -14,8 +14,8 @@ myChannel: "내 채널"
 subscriptions: "구독"
 
 # Bottom section items:
-guideBuilderLabel: "Browse channels"
-manageSubscriptionsLabel: "Manage subscriptions"
+guideBuilderLabel: "채널 탐색"
+manageSubscriptionsLabel: "구독정보 관리"
 
 # Section names:
 bestOfYouTubeTitle: "Best of YouTube"
@@ -33,7 +33,7 @@ bestOfYouTubeSpotlight: "Spotlight"
 bestOfYouTube360: "360° Video"
 
 # Subscriptions promo:
-subscriptionsPromoButton: "Add channels"
+subscriptionsPromoButton: "채널 추가"
 subscriptionsPromoTooltip: >
   Your subscriptions will show up here Browse some channels to get started.
 
