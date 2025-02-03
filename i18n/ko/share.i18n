@@ -1,5 +1,5 @@
 tabShare: "공유"
-tabEmbed: "퍼가기"
+tabEmbed: "소스 코드"
 tabEmail: "이메일"
 
 serviceTooltip: "Share to %s. Opens in a new window."
@@ -8,7 +8,7 @@ startAt: "시작 시간:"
 sharePlaylist: "Share with playlist starting from  "
 currentVideo: "current video"
 startPlaylist: "start of playlist"
-embedCode: "퍼가기 코드"
+embedCode: "소스 코드"
 
 preview: "미리보기:"
 videoSize: "동영상 크기:"
