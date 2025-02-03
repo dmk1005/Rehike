@@ -3,7 +3,7 @@ tabEmbed: "퍼가기"
 tabEmail: "이메일"
 
 serviceTooltip: "Share to %s. Opens in a new window."
-startAt: "Start at:"
+startAt: "시작 시간:"
 
 sharePlaylist: "Share with playlist starting from  "
 currentVideo: "current video"
@@ -12,12 +12,12 @@ embedCode: "퍼가기 코드"
 
 preview: "미리보기:"
 videoSize: "동영상 크기:"
-customSize: "Custom size"
+customSize: "맞춤 크기"
 
-showRelated: "Show suggested videos when the video finishes"
-showControls: "플레이어 컨트롤을 표시합니다."
-showInfo: "Show video title and player actions"
-delayedCookies: "개인정보 보호 강화 모드를 사용 설정합니다."
+showRelated: "동영상이 완료되면 추천 동영상 표시"
+showControls: "플레이어 컨트롤 표시"
+showInfo: "동영상 제목 및 플레이어 작업 표시"
+delayedCookies: "개인정보 보호 강화 모드 사용"
 
 legalNotice: >
   내 사이트에 YouTube 동영상을 퍼가면 
