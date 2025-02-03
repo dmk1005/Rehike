@@ -62,7 +62,7 @@ actionPanelRentalRequired: >
 
 loadingMoreSuggestions: "추가 추천 동영상 로드 중..."
 
-repeatPlaylistLabel: "재생목록 신고"
+repeatPlaylistLabel: "재생목록 반복"
 shufflePlaylistLabel: "셔플"
 
 playerBlockadeContentWarning: "Content warning"
