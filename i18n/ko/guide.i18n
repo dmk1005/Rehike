@@ -18,19 +18,19 @@ guideBuilderLabel: "채널 탐색"
 manageSubscriptionsLabel: "구독정보 관리"
 
 # Section names:
-bestOfYouTubeTitle: "Best of YouTube"
+bestOfYouTubeTitle: "인기 YouTube"
 libraryTitle: "라이브러리"
 
 # Best of YouTube section item names:
-bestOfYouTubePopularOnYouTube: "Popular on YouTube"
-bestOfYouTubeMusic: "Music"
-bestOfYouTubeSports: "Sports"
-bestOfYouTubeGaming: "Gaming"
-bestOfYouTubeMoviesTv: "Movies & Shows"
-bestOfYouTubeNews: "News"
-bestOfYouTubeLive: "Live"
-bestOfYouTubeSpotlight: "Spotlight"
-bestOfYouTube360: "360° Video"
+bestOfYouTubePopularOnYouTube: "YouTube 인기 동영상"
+bestOfYouTubeMusic: "음악"
+bestOfYouTubeSports: "스포츠"
+bestOfYouTubeGaming: "게임"
+bestOfYouTubeMoviesTv: "영화"
+bestOfYouTubeNews: "뉴스"
+bestOfYouTubeLive: "실시간"
+bestOfYouTubeSpotlight: "주목받는 동영상"
+bestOfYouTube360: "360° 동영상"
 
 # Subscriptions promo:
 subscriptionsPromoButton: "채널 추가"
