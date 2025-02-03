@@ -3,7 +3,7 @@
 autoplayToggleDesc: "자동재생"
 autoplayTitle: "다음 동영상"
 autoplayInfoText: >
-  When autoplay is enabled, a suggested video will automatically play next.
+  자동재생을 사용하도록 설정하면 추천 동영상이 자동으로 이어서 재생됩니다.
 
 relatedItemA11yDesc: " - Duration: %s."
 
@@ -60,7 +60,7 @@ actionPanelError: >
 actionPanelRentalRequired: >
   Rating is available when the video has been rented.
 
-loadingMoreSuggestions: "Loading more suggestions..."
+loadingMoreSuggestions: "추가 추천 동영상 로드 중..."
 
 repeatPlaylistLabel: "재생목록 신고"
 shufflePlaylistLabel: "셔플"
