@@ -19,13 +19,13 @@ actionDislikeTooltip: "동영상이 마음에 들지 않습니다."
 
 clickcardSignIn: "로그인"
 clickcardPlaylistSignIn: "YouTube에 로그인"
-addToClickcardHeading: "Want to watch this video again later?"
-addToClickcardTip: "Sign in to add this video to a playlist."
-reportClickcardHeading: "Need to report the video?"
-reportClickcardTip: "Sign in to report inappropriate content."
-likeClickcardHeading: "Like the video?"
-dislikeClickcardHeading: "Dislike the video?"
-voteClickcardTip: "Sign in to make your opinion count."
+addToClickcardHeading: "동영상을 나중에 다시 보려면?"
+addToClickcardTip: "로그인하여 동영상을 재생목록에 추가하세요."
+reportClickcardHeading: "동영상을 신고하시겠습니까?"
+reportClickcardTip: "부적절한 콘텐츠를 신고하려면 로그인하세요."
+likeClickcardHeading: "동영상이 마음에 드시나요?"
+dislikeClickcardHeading: "이 동영상이 마음에 들지 않습니다."
+voteClickcardTip: "로그인하여 의견을 알려주세요."
 
 channelSettings: "채널 설정"
 creatorBarInfo: "정보 및 설정"
@@ -56,9 +56,9 @@ privacyPrivate: >
   This video is private. Only those with access can see it.
 
 actionPanelError: >
-  This feature is not available right now. Please try again later.
+  지금은 이 기능을 사용할 수 없습니다. 나중에 다시 시도해 보세요.
 actionPanelRentalRequired: >
-  Rating is available when the video has been rented.
+  동영상을 대여하면 평가할 수 있습니다.
 
 loadingMoreSuggestions: "추가 추천 동영상 로드 중..."
 
@@ -73,13 +73,13 @@ playerBlockadeAgeRestrictedSignin: >
 
 # JS messages:
 editorAjaxRequestFailed: >
-  Something went wrong trying to get data from the server. 
+  서버에서 데이터를 가져오는 동안 오류가 발생했습니다. 다시 시도하거나 페이지를 새로고침하세요.
   Try again, or reload the page.
 editorAjaxRequest503: >
-  This functionality is not available right now. Please try again later.
+  지금은 이 기능을 사용할 수 없습니다. 나중에 다시 시도해 보세요.
 
 # Slow internet connection message.
-speedygInfo: "Experiencing interruptions?"
+speedygInfo: "동영상 중단 현상이 발생합니까?"
 
 liveWatchingNow0: "0명 시청 중"
 liveWatchingNow1: "1명 시청 중"
