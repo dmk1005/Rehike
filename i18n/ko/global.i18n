@@ -35,7 +35,7 @@ addToWatchQueue: "Watch Queue"
 addToWatchQueueAdded: "추가됨"
 addToWatchQueueError: "Error"
 addToTvQueue: "Queue"
-watchLaterSignIn: "%sSign in%s to add this to Watch Later"
+watchLaterSignIn: "%s로그인%s하여 동영상을 재생목록에 추가하세요."
 
 # Add to dialog strings:
 addToHeader: "추가"
