@@ -8,7 +8,7 @@ actionMenuLabel: "Action menu."
 
 # Spinner (loading) text:
 loading: "로드 중..."
-working: "Working..."
+working: "작업 중..."
 
 # Generic close button text
 close: "Close"
@@ -24,7 +24,7 @@ durationA11y: " - Duration: %s."
 
 # TODO-i18n: make this use printf formatting so it can be more
 # versatile.
-usernamePrepend: "by "
+usernamePrepend: "게시자: "
 verified: "인증됨"
 
 # Video thumbnail watch later button strings:
@@ -50,9 +50,9 @@ transcriptTitle: "스크립트"
 transcriptFail: "The interactive transcript could not be loaded."
 
 # Video player ad (?) JS messages
-adsInstreamFirstPlay: "A video ad is playing."
-adsInstreamSkippable: "Video ad can be skipped."
-adsOverlayImpression: "Ad displayed."
+adsInstreamFirstPlay: "동영상 광고 재생 중입니다."
+adsInstreamSkippable: "동영상 광고를 건너뛸 수 있습니다."
+adsOverlayImpression: "광고가 표시되었습니다."
 
 # Searchbox labels
 sboxSuggestionDismissedLabel: "Suggestion removed"
