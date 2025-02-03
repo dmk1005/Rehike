@@ -29,7 +29,7 @@ verified: "인증됨"
 
 # Video thumbnail watch later button strings:
 addToWatchLater: "나중에 볼 동영상에 추가"
-addedToWatchLater: "추가된"
+addedToWatchLater: "추가됨"
 addToWatchLaterError: "Error"
 addToWatchQueue: "Watch Queue"
 addToWatchQueueAdded: "추가됨"
