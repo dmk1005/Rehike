@@ -2,10 +2,10 @@
 # These are common strings for the browse endpoint.
 
 channelBadge: "채널"
-liveBadge: "Live now"
+liveBadge: "실시간 스트리밍 중"
 
 # Original live badge string from InnerTube. Used to detect and change the
 # text in Rehike.
-liveBadgeOriginal: "LIVE"
+liveBadgeOriginal: "실시간"
 
 feedItemDismissalNotice: "This item has been hidden"
